@@ -10,11 +10,5 @@
         "firebase-debug.*.log"
       ]
     }
-  ],
-  "hosting": {
-    "rewrites": [ {
-      "source": "**",
-      "function": "app"
-    } ]
-  }
+  ]
 }

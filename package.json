@@ -18,6 +18,8 @@
     "express",
     "MongoDb",
     "Firestore",
+    "Firebase Auth",
+    "React",
     "Api"
   ],
   "author": "Jeyan Karthikeyan",
